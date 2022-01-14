@@ -1,28 +1,36 @@
 ---
-title: "Sample Page"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: Sample Page
+description: This is meta description
+
 ---
+<h2>About
 
-<p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show
-up in your site navigation (in most themes). Most people start with an About page that introduces them to
-potential site visitors. It might say something like this:</p>
+me</h2>
 
-<blockquote class="wp-block-quote">
-<p>Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los
-Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin&#8217; caught in the rain.)
-</p>
-</blockquote>
+<img width="556" height="822" src="![](https://dgdgs-56c009.ingress-comporellon.easywp.com/wp-content/uploads/2020/07/27-3-18-2158.png)" alt="" loading="lazy" srcset="![](https://dgdgs-56c009.ingress-comporellon.easywp.com/wp-content/uploads/2020/07/27-3-18-2158.png) 556w, ![](https://dgdgs-56c009.ingress-comporellon.easywp.com/wp-content/uploads/2020/07/27-3-18-2158-203x300.png) 203w" sizes="(max-width: 556px) 100vw, 556px">
 
-<p>&#8230;or something like this:</p>
+<b>BEHIND THE LENS</b>
 
-<blockquote class="wp-block-quote">
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever
-since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
-Gotham community.</p>
-</blockquote>
+HCJ&nbsp;is an creative studio bringing thought, relevance and style to forward-thinking fashion, beauty, tech, and lifestyle brands. Founded in 2010&nbsp;by harish chandra jangid works intuitively to pinpoint the most essential, visceral quality with which to tell a brand’s story. We act as both a strategic and creative resource to our clients at every step of the process, aligning inspiration, social media marketing, business objectives and story-telling into powerful and clear experiences.
 
-<p>As a new WordPress user, you should go to your dashboard to delete this
-page and create new pages for your content. Have fun!</p>
+<h2>Work &amp;
+
+Education</h2>
+
+<h2>
+
+						Education Qualifications</h2>
+
+Coming up
+
+<a>
+
+Click Here					</a>
+
+<h2>
+
+						Experiences</h2>
+
+Coming up
+
+<a>
